@@ -9,23 +9,23 @@ about:
 
 ## Hi, I'm Emery 👋
 
-I came to data science from \[sociology (the sociology of gender and sports in particular)\]. 
-What keeps me here is \[solving difficult puzzles and the knowledge we can glean from data about 
-the world around us\].
+I came to data science from sociology (the sociology of gender and sports in particular). 
+What keeps me here is solving difficult puzzles and the knowledge we can glean from data about 
+the world around us.
 
-At Willamette my focus has been \[data governance and translation into actionable insights\]. 
+At Willamette my focus has been data governance and translation into actionable insights. 
 My [capstone](capstone.qmd) is where that comes together.
 
 ### Beyond the terminal
 
-- 🌲 \[I play rugby and also enjoy artistic pursuits (painting, drawing, and photography) in my free time\]
-- 📚 \[My data science-related book recommendations are *Where the Axe is Buried* by Ray Nayler and *Empire of AI* by Karen Hao!\]
-- 🎯 \[My goal is to work in a socially-oriented role where I can use data to build stronger communities\]
+- 🌲 I play rugby and also enjoy artistic pursuits (painting, drawing, and photography) in my free time
+- 📚 My data science-related book recommendations are *Where the Axe is Buried* by Ray Nayler and *Empire of AI* by Karen Hao!
+- 🎯 My goal is to work in a socially-oriented role where I can use data to build stronger communities
 
 ### Get in touch
 
-I'm happy to talk about \[anything on the social side of data science\].
+I'm happy to talk about anything on the social side of data science.
 
-- ✉️ [you@willamette.edu](eskerani@willamette.edu)
+- ✉️ [eskerani@willamette.edu](eskerani@willamette.edu)
 - 💼 [LinkedIn](https://linkedin.com/in/eskerani)
 - 💻 [GitHub](https://github.com/eskerani)

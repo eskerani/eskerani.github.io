@@ -1,7 +1,7 @@
 ---
-title: "Blitz Bearcat"
+title: "Emery Kerani"
 subtitle: "M.S. Data Science Candidate · Willamette University"
-image: images/profile.png
+image: images/profile.jpg
 about:
   template: trestles
   image-shape: round
@@ -9,13 +9,13 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/your_github_username
+      href: https://github.com/eskerani
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/your_github_username
+      href: https://linkedin.com/in/eskerani
     - icon: envelope
       text: Email
-      href: mailto:you@willamette.edu
+      href: mailto:eskerani@willamette.edu
     - icon: file-earmark-pdf
       text: Resume
       href: resume.qmd
@@ -23,15 +23,13 @@ about:
 
 I build data pipelines and turn messy data into decisions people can act on.
 Right now I am finishing my M.S. in Data Science at **Willamette University**,
-where my capstone [predicts \[your one-line problem\]](capstone.qmd) for
-\[your stakeholder\].
+where my capstone [predicts incarceration rates based on social factors](capstone.qmd).
 
-I care about \[topics you actually care about — e.g. housing, health equity,
-sports analytics\], reproducible workflows, and explaining a model to the person
+I care about public health, prison reform, ethical and transparent data science, reproducible workflows, and explaining a model to the person
 who has to trust it.
 
-**Currently looking for** \[data analyst / data scientist / ML engineer\] roles
-starting \[month year\]. [Get in touch](about.qmd) or grab my
+**Currently looking for** data analyst or data scientist roles
+starting September 2026. [Get in touch](about.qmd) or grab my
 [resume](resume.qmd).
 
 ---
@@ -40,6 +38,8 @@ starting \[month year\]. [Get in touch](about.qmd) or grab my
 
 ::: {.g-col-12 .g-col-md-4}
 ### 🎓 Education
+B.S. Data Science
+B.A. Sociology
 M.S. Data Science
 Willamette University, 2026
 :::
@@ -47,13 +47,13 @@ Willamette University, 2026
 ::: {.g-col-12 .g-col-md-4}
 ### 🛠️ Toolkit
 R · Python · SQL
-Quarto · Git · \[add yours\]
+Quarto · Git · Tableau
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ### 📍 Based in
 Salem, OR
-Open to \[remote / relocation\]
+Open to relocation or remote roles
 :::
 
 :::
