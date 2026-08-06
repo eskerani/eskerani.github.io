@@ -9,7 +9,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Blitz Bearcat"
+  title: "Emery Kerani"
   description: "M.S. Data Science portfolio — Willamette University"
   site-url: https://your_github_username.github.io
   navbar:
@@ -25,13 +25,13 @@ website:
       - href: about.qmd
         text: About
       - icon: github
-        href: https://github.com/your_github_username
+        href: https://github.com/eskerani
         aria-label: GitHub
       - icon: linkedin
-        href: https://linkedin.com/in/your_github_username
+        href: https://linkedin.com/in/eskerani
         aria-label: LinkedIn
   page-footer:
-    left: "© 2026 Blitz Bearcat"
+    left: "© 2026 Blitz Emery Kerani"
 
 format:
   html:
