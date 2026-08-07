@@ -47,7 +47,7 @@ It must be noted that all data were based on survey estimates, and that to some 
 
 ## The full write-up
 
-The full write-up can be found [here](projects/capstone/writeup.qmd)
+The full write-up can be found [here](projects/capstone/writeup.pdf)
 
 ## Dig deeper
 

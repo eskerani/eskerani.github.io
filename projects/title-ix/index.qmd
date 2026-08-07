@@ -1,0 +1,26 @@
+---
+title: "[Insert Title IX Here]: Visualizing Inequity in College Sports"
+description: "A project completed in R exploring inequity in college athletics through four interactive data visualizations."
+date: 2026-04-23
+image: image.png
+categories: [course-work, R, visualization]
+---
+
+## What it is
+
+Completed with a partner, this project investigates how NCAA schools measure up to the requirements of Title IX using 
+the Equity in Athletics Dataset published by the Department of Education. We used R to clean and combine data from 
+2007-2024, from which we selected four core issues to focus on: ratios of student aid vs. participation, coaches' salaries, 
+investment in men's and women's sports, and revenue generated. These visualizations reveal heavy gender disparities between 
+both divisions and schools with and without football, indicating that more needs to be done to ensure that women's college 
+sports reach their full potential.
+
+## What I did
+
+- Cleaned and combined nearly 20 years' worth of data from the [EADA](https://ope.ed.gov/athletics/#/) dataset.
+- Created a series of interactive visualizations to display the continued lack of investment in women's college sports.
+- Wrote and published a blog-style writeup (linked below) containing our visualizations and findings.
+
+## Links
+
+- 🔗 [rpubs](https://rpubs.com/eskerani/1422641)
