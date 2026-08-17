@@ -9,17 +9,20 @@ toc: true
 
 ## The one-liner
 
-> I integrated **5 data sources on crime, incarceration, poverty, race, and police spending** into **one dataset spanning 40 years, with entries for all 50 states**, in order to **assess the predictive power of crime rates, poverty rates, and racial diversity relative to incarceration rates across the United States and over time**.
+> I integrated **5 data sources on crime, incarceration, poverty, race, and police spending** into **one dataset spanning 40 years, with entries for all 50 states**, in order to **assess the predictive power of crime rates, poverty rates, and racial diversity relative to incarceration rates across the United States and over time**; I found that **police spending was the most influential variable in creating these predictions**.
+
 
 **Role:** I worked solo to independently build this project
-**Team:** solo
+
 **Repo:** [github.com/eskerani/prison-predictor-capstone](https://github.com/eskerani/prison-predictor-capstone)
+
 
 ## The question
 
-Since the 1980s the United States' incarceration rate has skyrocketed; currently the US imprisons its citizens at one of the highest rates in the world. However, violent crime rates have been steadily falling since peaking in the 1990s. Given that the US's criminal legal system wields tremendous power - power that is most often turned against already-disadvantaged individuals and their communities - it is important that we recognize protective and risk factors for incarceration, many of which are social in nature.
+Since the 1980s the United States' incarceration rate has skyrocketed; currently the US imprisons its citizens at one of the highest rates in the world. However, violent crime rates have been steadily falling since peaking in the 1990s. Thus, this project asks: **how do the predictive power of social factors (such as poverty, race, or government spending on police) compare to that of violent and property crime rates when using support vector regression to model the national incarceration rate?**
 
-## The data
+<details>
+<summary><h2 style="display:inline-block">The data</h2></summary>
 
 This project combines data from five sources, all of which are at the state level and contain information for the years 1980-2020:
 
@@ -30,6 +33,8 @@ This project combines data from five sources, all of which are at the state leve
 * Race data was estimated based on demographic information included in the IPUMS Current Population Survey (CPS)
 
 Given the historical nature of this project, all data sets were ingested as one-time .csv or .xlsx downloads. Once downloaded, the datasets were individually cleaned and wrangled into a standardized format. The IPUMS data was aggregated up to the state and year level, at which point the datasets could be joined together using state and year as the key. Using these combined data, all features were standardized by population (per 100k) based on the population estimates originally included in the poverty dataset. **The resulting combined dataset contained 2,050 rows and 10 columns: state, year, total population, incarceration rate, total crime rate, violent crime rate, property crime rate, poverty rate, the rate of non-white residents, and police spending rate.** There were certainly some stumbling blocks along the way, especially because each data set came with its own caveats and quality issues that had to be resolved before the join could be carried out.
+
+</details>
 
 ## The approach
 
