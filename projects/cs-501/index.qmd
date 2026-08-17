@@ -1,0 +1,25 @@
+---
+title: "OreGONE Wild: Healthcare Spending in Oregon"
+description: "A project completed in Python using pandas, numpy, and seaborn to analyze healthcare spending in OR."
+date: 2025-12-1
+image: cs501-graph.png
+categories: [course-work, python, analysis]
+---
+
+## What it is
+
+This project used a variety of tools in Python to analyze and tell a story about a dataset containing healthcare spending information across time for all 50 states. 
+We focused on Oregon in order to narrow our scope, and in doing so found that Oregon was well above the median national spending rate in some categories and below it in others. 
+This is likely due at least in part to Oregon's comprehensive Medicaid coverage, which would enable residents to receive more services. 
+In analyzing these results, we ended up telling a classic story of federalism--different regulations and contexts across states create significantly different circumstances under which healthcare is received and spending occurs.
+
+## What I did
+
+- Contributed to data cleaning and standardization, including adjusting all spending values for inflation.
+- Led visualization of spending trends across time.
+- Analyzed trends in order to tell a story about how healthcare spending in OR fits into spending in the wider US. 
+
+## Links
+
+- 🔗 [writeup](https://docs.google.com/document/d/1yMBY5LJyM52fv01dBceh6UXb3JoeckoBLo_ak1w6LmU/edit?usp=sharing)
+- 📊 [presentation]()

@@ -1,0 +1,24 @@
+---
+title: "Head Over Heel: Classifying Severe Injuries with OSHA Data"
+description: "A project completed in Python using a variety of machine learning models to predict outcomes of severe workplace injuries."
+date: 2026-04-27
+image: machine-learning-graph.png
+categories: [course-work, python, machine-learning]
+---
+
+## What it is
+
+This project aims to use machine learning to predict whether severe workplace injuries catalogued by OSHA involved hospitalization of an injured worker. 
+In doing so it compares the outcomes of 3 different model types (random forest, support vector classification, and K-nearest neighbors) and two data input types (structured categorical vs. unstructured text data) to investigate what the most accurate combination is. 
+Somewhat surprisingly, the best-performing model was a text-based support vector classification model, suggesting that text narratives of incidents can be a robust source of information relating to incident outcomes. 
+
+## What I did
+
+- Led the cleaning and pre-processing of OSHA severe injury data.
+- Created 6 classification models (3 based on categorical variables, 3 based on text descriptions of events) to predict whether or not a given injury ended in hospitalization.
+- Presented findings as both a slideshow and Jupyter notebook. 
+
+## Links
+
+- 🔗 [notebook](https://github.com/eskerani/Grad-projects/blob/main/machine_learning_project%20_final.ipynb)
+- 📊 [presentation](https://docs.google.com/presentation/d/1ILkqa4OQDtk_55w2DL5aB0BQZ5Occ2CBS5YqGBc8I6w/edit?usp=sharing)
