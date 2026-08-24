@@ -22,4 +22,3 @@ In analyzing these results, we ended up telling a classic story of federalism--d
 ## Links
 
 - 🔗 [writeup](https://docs.google.com/document/d/1yMBY5LJyM52fv01dBceh6UXb3JoeckoBLo_ak1w6LmU/edit?usp=sharing)
-- 📊 [presentation]()
