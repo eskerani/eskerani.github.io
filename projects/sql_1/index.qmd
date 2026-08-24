@@ -2,24 +2,26 @@
 title: "Oh, SNAP! Exploring Retailer Availability, SNAP Participation, and Migration in the US"
 description: "A project completed in SQL combining three different data sources to query and investigate associations between poverty, SNAP retailer presence, and migration."
 date: 2026-04-29
-image: machine-learning-graph.png
+image: image.png
 categories: [course-work, sql, data-engineering]
 ---
 
 ## What it is
 
-This project aims to use machine learning to predict whether severe workplace injuries catalogued by OSHA involved hospitalization of an injured worker. 
-In doing so it compares the outcomes of 3 different model types (random forest, support vector classification, and K-nearest neighbors) and two data input types (structured categorical vs. unstructured text data) to investigate what the most accurate combination is. 
-Somewhat surprisingly, the best-performing model was a text-based support vector classification model, suggesting that text narratives of incidents can be a robust source of information relating to incident outcomes. 
+This project aimed to use SQL to investigate correlations between poverty, SNAP retailers, and migration.
+To do so, we integrated three data sources: migration data came from the American Community Survey, and both SNAP usage/poverty and the number of SNAP retailers were downloaded from the US Department of Agriculture. 
+After cleaning these data sources and inserting everything into SQL, we aggregated the SNAP data up to match the five-year level of the ACS data and then calculated standardized SNAP participation, retailers, and migration variables.
+After creating several queries and views using these aggregated variables, we found that there was little to no correlation between SNAP participation, the number of retailers in an area, and migration into/out of a given area. 
+We did, however, find that there was a significant divide between urban and rural counties--rural counties were more likely to have higher SNAP participation and net outmigration, but also had a higher average number of SNAP retailers per 1,000 people (likely due to these areas having a lower population to begin with). 
 
 ## What I did
 
 - Led the sourcing, cleaning, and integration of county-level migration data from the American Community Survey. 
-
-- Created 6 classification models (3 based on categorical variables, 3 based on text descriptions of events) to predict whether or not a given injury ended in hospitalization.
+- Created tables, relationships, and inserted all cleaned data into a SQL database.
 - Created a Grafana dashboard to visually present the relationships between variables. 
 
 ## Links
 
-- 🔗 [write-up](writeup.qmd)
-- 📊 [presentation](https://docs.google.com/presentation/d/1ILkqa4OQDtk_55w2DL5aB0BQZ5Occ2CBS5YqGBc8I6w/edit?usp=sharing)
+- 🔗 [write-up](https://docs.google.com/document/d/1jN6vYPGy-e2im1nQGZ3tHA1PQGIKy6u6XyY8ubcgcHM/edit?usp=sharing)
+- 📊 [presentation](https://docs.google.com/presentation/d/1RewcPkuhvBio1j4XL3NAq-mR06Al0r-P4fxIOhlLFUI/edit?usp=sharing)
+- ❓ [sample queries](https://github.com/eskerani/Grad-projects/blob/main/project_queries.sql)
