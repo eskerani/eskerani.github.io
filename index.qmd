@@ -1,6 +1,6 @@
 ---
 title: "Emery Kerani"
-subtitle: "M.S. Data Science Candidate · Willamette University"
+subtitle: "Data Scientist (M.S. from Willamette University)"
 image: images/profile.jpg
 about:
   template: trestles
@@ -22,7 +22,7 @@ about:
 ---
 
 I build data pipelines and turn messy data into decisions people can act on.
-Right now I am finishing my M.S. in Data Science at **Willamette University**,
+I recently completed my M.S. in Data Science at **Willamette University**,
 where my capstone [predicts incarceration rates based on social factors](capstone.qmd).
 
 I care about public health, prison reform, ethical and transparent data science, and explaining a model to the person

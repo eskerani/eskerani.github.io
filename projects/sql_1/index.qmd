@@ -1,0 +1,25 @@
+---
+title: "Oh, SNAP! Exploring Retailer Availability, SNAP Participation, and Migration in the US"
+description: "A project completed in SQL combining three different data sources to query and investigate associations between poverty, SNAP retailer presence, and migration."
+date: 2026-04-29
+image: machine-learning-graph.png
+categories: [course-work, sql, data-engineering]
+---
+
+## What it is
+
+This project aims to use machine learning to predict whether severe workplace injuries catalogued by OSHA involved hospitalization of an injured worker. 
+In doing so it compares the outcomes of 3 different model types (random forest, support vector classification, and K-nearest neighbors) and two data input types (structured categorical vs. unstructured text data) to investigate what the most accurate combination is. 
+Somewhat surprisingly, the best-performing model was a text-based support vector classification model, suggesting that text narratives of incidents can be a robust source of information relating to incident outcomes. 
+
+## What I did
+
+- Led the sourcing, cleaning, and integration of county-level migration data from the American Community Survey. 
+
+- Created 6 classification models (3 based on categorical variables, 3 based on text descriptions of events) to predict whether or not a given injury ended in hospitalization.
+- Created a Grafana dashboard to visually present the relationships between variables. 
+
+## Links
+
+- 🔗 [write-up](writeup.qmd)
+- 📊 [presentation](https://docs.google.com/presentation/d/1ILkqa4OQDtk_55w2DL5aB0BQZ5Occ2CBS5YqGBc8I6w/edit?usp=sharing)
