@@ -26,6 +26,6 @@ My [capstone](capstone.qmd) is where that comes together.
 
 I'm happy to talk about anything on the social side of data science.
 
-- ✉️ [eskerani@willamette.edu](eskerani@willamette.edu)
+- ✉️ [emeryskerani@gmail.com](emeryskerani@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/emerykerani)
 - 💻 [GitHub](https://github.com/eskerani)

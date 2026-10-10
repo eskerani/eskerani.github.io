@@ -15,7 +15,7 @@ about:
       href: https://linkedin.com/in/emerykerani
     - icon: envelope
       text: Email
-      href: mailto:eskerani@willamette.edu
+      href: mailto:emeryskerani@gmail.com
     - icon: file-earmark-pdf
       text: Resume
       href: resume.qmd
@@ -52,8 +52,8 @@ Quarto · Git · Tableau
 
 ::: {.g-col-12 .g-col-md-4}
 ### 📍 Based in
-Salem, OR
-Open to relocation or remote roles
+Seattle, WA
+Open to remote roles
 :::
 
 :::
