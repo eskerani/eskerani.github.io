@@ -53,6 +53,7 @@ Quarto · Git · Tableau
 ::: {.g-col-12 .g-col-md-4}
 ### 📍 Based in
 Seattle, WA
+
 Open to remote roles
 :::
 
